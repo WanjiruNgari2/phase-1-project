@@ -1,0 +1,17 @@
+body {
+    color: rgb(229, 229, 233);
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+background-color: rgb(219, 12, 126);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+padding: 10;
+margin: 30;
+}
+
+
+
+img{
+    max-width: 200px;
+}

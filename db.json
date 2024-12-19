@@ -1,0 +1,114 @@
+{
+  "candidates": [
+    {
+      "id": "1",
+      "name": "Daniel Moi",
+      "Votes": 1,
+      "bio": "Daniel Moi is a former president with a strong leadership record and dedication to national development.",
+      "image": "album/daniel.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Candidate2",
+      "Votes": 0,
+      "bio": "Candidate2 is an emerging leader focused on innovation and economic growth.",
+      "image": "album/candidate2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Candidate3",
+      "Votes": 0,
+      "bio": "Candidate2 is an emerging leader focused on innovation and economic growth.",
+      "image": "album/candidate3.jpg"
+    }
+  ],
+  "Users": [
+    {
+      "id": "1",
+      "name": "Jane Doe",
+      "dob": "1900-10-14",
+      "nationality": "Kenyan",
+      "gender": "Female"
+    },
+    {
+      "id": "2",
+      "name": "John Smith",
+      "dob": "1992-05-25",
+      "nationality": "Kenyan",
+      "gender": "Male"
+    },
+    {
+      "id": "2239",
+      "name": "Jane Doe",
+      "dob": "1900-30-14",
+      "nationality": "Kenyan",
+      "gender": "Female"
+    },
+    {
+      "id": "58a7",
+      "name": "Jane Doe",
+      "dob": "1900-30-14",
+      "nationality": "Kenyan",
+      "gender": "Female"
+    },
+    {
+      "id": "1344",
+      "name": "hbhbhvv",
+      "nationality": "trrdr",
+      "age": 23,
+      "gender": "Female"
+    },
+    {
+      "id": "0546",
+      "name": "kkuhuh",
+      "nationality": "trrdr",
+      "age": 33,
+      "gender": "Female"
+    },
+    {
+      "id": "d9d6",
+      "name": "damah",
+      "nationality": "Kenyan ",
+      "age": 33,
+      "gender": "Female"
+    },
+    {
+      "id": "9b34",
+      "name": "damah",
+      "nationality": "Kenyan ",
+      "age": 33,
+      "gender": "Female"
+    },
+    {
+      "id": "8c79"
+    },
+    {
+      "id": 73,
+      "name": "Damaris Ngari",
+      "dob": "1930-10-14",
+      "nationality": "Kenyan",
+      "gender": "Female"
+    },
+    {
+      "id": 73,
+      "name": "Damaris Ngari",
+      "dob": "1930-10-14",
+      "nationality": "Kenyan",
+      "gender": "Female"
+    },
+    {
+      "id": "b979",
+      "name": "Karen Mtindwa",
+      "nationality": "Kenyan ",
+      "age": 103,
+      "gender": "Female"
+    },
+    {
+      "id": "23c0",
+      "name": "fftrcc",
+      "nationality": "Kenyan ",
+      "age": 22,
+      "gender": "Female"
+    }
+  ]
+}
